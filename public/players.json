@@ -1,0 +1,122 @@
+[
+  {
+    "player_name": "Shoriful Islam",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.4,
+    "batting_style": "Left hand Bat",
+    "bowling_style": "Left arm Medium Fast",
+    "price": "BDT 65 Lakh"
+  },
+  {
+    "player_name": "Mahedi Hasan",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Allrounder",
+    "rating": 8.8,
+    "batting_style": "Right hand Bat",
+    "bowling_style": "Right arm Offbreak",
+    "price": "BDT 48 Lakh"
+  },
+  {
+    "player_name": "Parvez Hossain Emon",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batter",
+    "rating": 8.5,
+    "batting_style": "Left hand Bat",
+    "bowling_style": "N/A",
+    "price": "BDT 38 Lakh"
+  },
+  {
+    "player_name": "Nasum Ahmed",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.2,
+    "batting_style": "Left hand Bat",
+    "bowling_style": "Slow Left arm Orthodox",
+    "price": "BDT 28 Lakh"
+  },
+  {
+    "player_name": "Hassan Eisakhil",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Afghanistan",
+    "playing_role": "Batter",
+    "rating": 7.9,
+    "batting_style": "Right hand Bat",
+    "bowling_style": "N/A",
+    "price": "USD 22,000"
+  },
+  {
+    "player_name": "Muhammad Waseem",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "UAE",
+    "playing_role": "Opening Batter",
+    "rating": 8.3,
+    "batting_style": "Right hand Bat",
+    "bowling_style": "Right arm Medium",
+    "price": "USD 32,000"
+  },
+  {
+    "player_name": "Mustafizur Rahman",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.7,
+    "batting_style": "Left hand Bat",
+    "bowling_style": "Left arm Medium Fast",
+    "price": "BDT 85 Lakh"
+  },
+  {
+    "player_name": "Alex Hales",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "England",
+    "playing_role": "Opening Batter",
+    "rating": 9.1,
+    "batting_style": "Right hand Bat",
+    "bowling_style": "Right arm Medium",
+    "price": "USD 70,000"
+  },
+  {
+    "player_name": "Rahmanullah Gurbaz",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Afghanistan",
+    "playing_role": "Wicketkeeper Batter",
+    "rating": 9.0,
+    "batting_style": "Right hand Bat",
+    "bowling_style": "Right arm Medium",
+    "price": "USD 55,000"
+  },
+  {
+    "player_name": "Towhid Hridoy",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Batter",
+    "rating": 8.9,
+    "batting_style": "Right hand Bat",
+    "bowling_style": "Right arm Offbreak",
+    "price": "BDT 72 Lakh"
+  },
+  {
+    "player_name": "Litton Das",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batter",
+    "rating": 9.3,
+    "batting_style": "Right hand Bat",
+    "bowling_style": "N/A",
+    "price": "BDT 78 Lakh"
+  },
+  {
+    "player_name": "Taskin Ahmed",
+    "player_image": "https://i.ibb.co.com/QFzszCkf/shoriful.png",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.5,
+    "batting_style": "Left hand Bat",
+    "bowling_style": "Right arm Fast",
+    "price": "BDT 68 Lakh"
+  }
+]
